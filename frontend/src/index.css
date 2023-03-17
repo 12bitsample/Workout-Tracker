@@ -3,11 +3,11 @@
 
 /* layout */
 :root {
-  --primary: #1aac83;
+  --primary: #1aac4b;
   --error: #e7195a;
 }
 body {
-  background: #f1f1f1;
+  background: #a9a9a9;
   margin: 0;
   font-family: "Ubuntu";
 }
