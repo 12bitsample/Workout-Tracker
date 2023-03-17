@@ -9,7 +9,7 @@ Workout Amigo
 ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/twelvebitsample?style=social) -->
 
-![Workout Amigo](https://raw.github.com/12bitsample/Workout-Tracker/blob/main/Workout-Amigo.jpg?raw=true)
+![Workout Amigo](https://raw.github.com/12bitsample/Workout-Tracker/blob/main/Workout-Amigo.jpg)
 
 
 The Workout Amigo is a dynamic web application that allows the user to create, retrieve and delete workouts. For each workout they list the title of the workout, the load and the reps.  
