@@ -5,7 +5,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/twelvebitsample?style=social)
 
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
@@ -56,13 +56,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 
 ## Contributors
 
-Thanks to the following people who have contributed to this project:
-
-* [@scottydocs](https://github.com/scottydocs) 📖
-* [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
-
-You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
+N/A
 
 ## Contact
 
