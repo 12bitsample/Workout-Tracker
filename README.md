@@ -1,68 +1,72 @@
 # Project name
 
+Workout Amigo
+
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
+<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/twelvebitsample?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/twelvebitsample?style=social) -->
 
-Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+![alt text](https://github.com/12bitsample/Workout-Tracker/blob/[branch]/image.jpg?raw=true)
 
-Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
+The Workout Amigo is a dynamic web application that allows the user to create, retrieve and delete workouts. For each workout they list the title of the workout, the load and the reps.  
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-<!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `<coding_language/dependency/requirement_1>`
-* You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
-* You have read `<guide/link/documentation_related_to_project>`.
 
-## Installing <project_name>
+* You have installed the latest version of `VS Code`
+* You have a `Windows/Linux/Mac` machine. 
+* You need to have a Web Browser installed on your computer.
+* You have read `this README file`.
 
-To install <project_name>, follow these steps:
+## Installing Workout Amigo
 
-Linux and macOS:
+To install Workout Amigo, follow these steps:
+
+Windows, Linux and macOS:
 ```
-<install_command>
-```
+Clone repository at: https://github.com/12bitsample/Workout-Tracker.git
 
-Windows:
-```
-<install_command>
-```
-## Using <project_name>
+The following dependencies need to be installed to run the Workout Amigo:
+Node.js
+dotenv
+Express.js
+Mongoose.js
 
-To use <project_name>, follow these steps:
+User will need access to MongoDB database.
 
-```
-<usage_example>
 ```
 
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+## Using Workout Amigo
 
-## Contributing to <project_name>
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+To use Workout Amigo, follow these steps:
 
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
+Open terminal in the backend folder and run the following in the terminal to boot the server;
 
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+npm run dev
+
+Next, open a terminal in the frontend folder and run the following in the terminal to boot react;
+
+npm start
+
+That is about it! From here, react should open the Workout Amigo in your browser!
+
+## Optimization
+
+I would recommend that this app could benefit from authentication.
+
 
 ## Contributors
 
-N/A
+Michael McAdow - https://github.com/12bitsample
 
 ## Contact
 
-If you want to contact me you can reach me at <your_email@address.com>.
+If you want to contact me you can reach me at michaelmcadow@gmail.com .
 
 ## License
-<!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
-This project uses the following license: [<license_name>](<link>).
+N/A
